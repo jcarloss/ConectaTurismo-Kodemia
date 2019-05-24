@@ -25,6 +25,8 @@ https://conectaturismo.dreamteams.mx/response2.php
 
 ## Sobre el reto
 
-Es importante mencionar que las instrucciones en el reto son limitadas en cuanto a reglas de negocio sobre los XML, por lo tanto, es de suponer que deben de existir muchas variables para mejorar la estructura y validacion del JSON resultante.
+Es importante mencionar que las instrucciones en el reto son limitadas en cuanto a reglas de negocio sobre los XML, por lo tanto, es de suponer que deben de existir muchas variables para mejorar la estructura y validación del JSON resultante.
+
+Me enfoque en darle prioridad al tiempo de ejecución y pude obtener resultados menores a los 3 segundos de carga por formato en un equipo promedio mientras que en el servidor externo los tiempos son menores a un segundo, recalco este punto ya que considero es la escencia del reto.
 
 Saludos
